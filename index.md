@@ -10,3 +10,5 @@ Site dedicated to Japanese pitch accent and other surrounding features of Japane
 
 [NotOrange Notes](NotOrange)
 
+[Resources](resources)
+
