@@ -16,6 +16,8 @@ Test your perception with [Kotu](https://kotu.io/)  or [NALA-J](http://www.tufs.
 
 [Dogen](https://www.youtube.com/@Dogen)
 
+[Yudai sensei](https://www.youtube.com/@yudaisensei2020)
+
 
 
 ## Kansai-ben 
