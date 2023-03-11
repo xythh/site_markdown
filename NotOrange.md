@@ -8,7 +8,7 @@ css: orange.css
 # About this Document
 
 
-Up to date as of **2023-03-06**
+Up to date as of **2023-03-10**
 
 
 This document is based on the [Google Doc](https://docs.google.com/document/d/1e5DUuDLPKzYnyX9ZZPp2CXLoxk1ZPwH-Q0a0XCQA-Yc/edit#) by NotOrange. I have mainly just changed how the pitch is displayed, to be easier to read and easier to search this document.
@@ -201,7 +201,8 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～品{#品-counter}  | ⠀しな{1} | _See also:_ [_～品_](#品-suffix)_　suffix_ |
 | 〜戸  | ⠀こ{1}  |     |
 | 〜貫  | ⠀かん{1} |     |
-
+| 〜台{#台-counter}  | ⠀だい{1} | _See also:_ [_～台_](#台-suffix)_　suffix_    |
+| 〜部{#部-counter}  | ⠀ぶ{1} |  _See also:_ [_～部_](#部-suffix)_　suffix_    |
 
 #### Suffixes
 
