@@ -1,6 +1,6 @@
 layout: notes.html
 title: NotOrange pitch notes
-description: Counters & Suffixes for Pitch Accent
+description: Counters & Suffixes Pitch Accent
 document: Pitch notes by NotOrange
 css: orange.css
 ---
