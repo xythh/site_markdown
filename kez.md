@@ -1,7 +1,6 @@
-layout: notes.html
+layout: kez.html
 title: Pitch notes by Kez
 description: Tips for Japanese Pitch Accent
-css : kez.css
 
 ---
 

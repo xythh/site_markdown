@@ -1,3 +1,9 @@
+title: Resources for pitch accent
+description: Resources for pitch accent
+
+---
+
+
 # Resources
 
 ## Websites
