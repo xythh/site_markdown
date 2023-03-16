@@ -24,6 +24,8 @@
 }
  a{
      color:#40B0FF;
+     word-wrap: break-word;
+
 }
  span.drop,span.overline{
      padding-top: 0.1em;
@@ -74,7 +76,7 @@
      width: 100%;
 }
  td{
-     word-break: keep-all;
+     word-break: break-word;
      border: 1px solid #4f4f4f;
      text-align: center;
      width: 10%;
