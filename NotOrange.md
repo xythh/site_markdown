@@ -81,9 +81,9 @@ Some counters are so irregular that it's simpler to write the full (or as full a
  22年・にじゅう{1}・にねん{1}　ー＞　22年ぶり・にじゅう{1}・にねんぶり{0} 
 
 
-#### Counters 
+# Counters 
 
-##### General Patterns
+## General Patterns
 
 
 | **_Counter_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
@@ -97,7 +97,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 
 
 
-##### Time and Date
+## Time and Date
 
 
 | **_Counter_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
@@ -111,7 +111,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～期{#期-counter}  | ⠀き{1}  | _See also:_ [_～期_](#期-suffix)　_suffix_ |
 | ～晩  | ⠀ばん{1} |     |
 
-#### Numbers and Measurement
+## Numbers and Measurement
 
 | **_Counter_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -136,7 +136,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～パー | ぱー{1} |     |
 
 
-#### Animals
+## Animals
 
 | **_Counter_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -146,7 +146,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～兎  | ⠀と{1}  |     |
 | ～体  | ⠀たい{1} | `一体・いったい{0}　when meaning 'the heck'` |
 
-#### Everything Else
+## Everything Else
 
 | **_Counter_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -202,16 +202,16 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | 〜台{#台-counter}  | ⠀だい{1} | _See also:_ [_～台_](#台-suffix)_　suffix_    |
 | 〜部{#部-counter}  | ⠀ぶ{1} |  _See also:_ [_～部_](#部-suffix)_　suffix_    |
 
-#### Suffixes
+# Suffixes
 
-##### General Patterns
+## General Patterns
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
 | ～2 mora verb stem | 〇〇{0} |` 力持ち・ちからもち{3}`<br>`金持ち・かねもち{3}`<br>`　　　　かねもち{2}`<br><br>eg.<br>時間切れ・じかんぎれ{0}<br>一階建て・いっかいだて{0} |
 | ～3 mora+ verb stem | ○○○～{1} |` 暇潰し・ひまつぶし{0}`<br><br>eg.<br>気配り・きくばり{2}<br>昔話・むかしばなし{4}<br>人助け・ひとだすけ{3}<br>桁違い・けたちがい{3} |
 
-##### Time and Date
+## Time and Date
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -226,7 +226,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～弱  | じゃく{1} | eg. 一時間弱・いちじかんじゃく{6} |
 | ～強  | きょう{1} | eg. 一時間強・いちじかんきょう{6} |
 
-##### Numbers and Maths
+## Numbers and Maths
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -237,7 +237,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～以下 | いか{1} |     |
 | ～位  | ⠀い{1}  |     |
 
-##### Naming
+## Naming
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -258,7 +258,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～長  | ⠀ちょう{1} |     |
 | ～付け | づけ{0} |     |
 
-##### People
+## People
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -276,7 +276,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～派  | は⠀{0}  |     |
 | ～役  | やく{0} |     |
 
-##### Geography
+## Geography
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -299,7 +299,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～府  | ⠀ふ{1}  |     |
 | ～灯  | とう{0} |     |
 
-##### Buildings
+## Buildings
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -312,7 +312,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～棟{#棟-suffix}  | とう{0} | large building<br>_See also_ [_～棟_](#棟-counter)　_counter_ |
 | ～城  | ⠀じょう{1} |     |
 
-##### Language
+## Language
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -323,7 +323,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～核  | ⠀かく{1} |     |
 | ～音  | ⠀おん{1} |     |
 
-##### Spatial
+## Spatial
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -334,7 +334,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～ら辺 | らへん{0} |     |
 | ～以外 | いがい{1} | for 'longer' words it does not control the pitch accent of the word it is attaching to. For 'shorter' words it often does. |
 | ～以内 | いない{1} |     |
-##### School
+## School
 
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
@@ -344,7 +344,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～科  | か⠀{0}  |     |
 | ～校  | ⠀こう{1} | `予備校・よびこう{0}`<br>`女子校・じょしこう{0}`<br>`男子校・だんしこう{0}` |
 
-##### Power and War
+## Power and War
 
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
@@ -362,13 +362,13 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～艇  | てい{0} |     |
 | ～兵  | ⠀へい{1} |     |
 
-##### Food
+## Food
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
 | ～肉  | ⠀にく{1} | `焼き肉・やきにく{0}` |
 | ～寿司 | ⠀ずし{1} |     |
-##### Medical and The Body
+## Medical and The Body
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -378,7 +378,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～薬  | ⠀やく{1} |     |
 | ～痛  | つう{0} |     |
 
-##### Conjugation
+## Conjugation
 
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
@@ -389,7 +389,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | masu stem～がち | がち{0} |     |
 | adj～さ | ⠀さ{1}<br>さ⠀{0} | accented words will be ⠀さ{1}<br>heiban words will be さ⠀{0}<br>`綺麗さ・きれいさ{0}`<br>`暖かさ・あたたかさ{4}`<br>`　　　　あたたかさ{3}`<br>`大きさ・おおきさ{0}` |
 
-##### Everything Else
+## Everything Else
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
@@ -507,7 +507,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | 〜便  | びん{0} |     |
 
 
-#### Words That Don't Get A Compound Accent
+# Words That Don't Get A Compound Accent
 
 These are words that appear as though they would take on a compound accent with the word they follow, but they both do not alter the pitch accent of the word they follow and do not have their pitch altered. For a better understanding of this see https://japanese.stackexchange.com/a/94484/3097.
 
@@ -518,7 +518,7 @@ eg. 立ち入り禁止　ー＞　たちいり{0}　きんし{0}
 
 ゲーム開始　ー＞　げーむ{1}　かいし{0}
 
-#### Other Tidbits
+# Other Tidbits
 
 Titles that follow someone's name like 先生 and 部長 do not change the pitch accent of their name, nor does the pitch accent of the title itself change.
 
