@@ -195,7 +195,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～部屋{#部屋-counter} | ⠀へや{1} | _See also:_ [_～部屋_](#部屋-suffix) _suffix_ |
 | ～隻  | ⠀せき{1} |     |
 | ～価{#価-counter}  | ⠀か{1}  | _See also:_ [_～価_](#価-suffix)_　suffix_ |
-| ～流{#流-counter} | ⠀りゅう{0} | _See also:_ [_～流_](#流-suffix)_　suffix_ |
+| ～流{#流-counter} | りゅう{0} | _See also:_ [_～流_](#流-suffix)_　suffix_ |
 | ～品{#品-counter}  | ⠀しな{1} | _See also:_ [_～品_](#品-suffix)_　suffix_ |
 | 〜戸  | ⠀こ{1}  |     |
 | 〜貫  | ⠀かん{1} |     |
