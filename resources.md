@@ -28,6 +28,8 @@ Charts of patterns on [u-biq](https://accent.u-biq.org/)
 
 [Verb Pitch Accent and Verbs Conjugations](https://www.youtube.com/playlist?list=PLbEVYkEj81RzdzDWujEkfjJZrzsqV3Q8O)
 
+[Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY), video by Darius on learning pitch accent.
+
 [Dogen](https://www.youtube.com/@Dogen) most of it is available at his [Patreon](https://www.patreon.com/dogen)
 
 [Yudai sensei](https://www.youtube.com/@yudaisensei2020)
