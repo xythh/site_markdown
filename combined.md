@@ -1,5 +1,6 @@
 title: Japanese verb and adjective pitch accent
 description: Japanese verb and adjective pitch accent
+layout: temp.html
 
 ---
 
