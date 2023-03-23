@@ -636,4 +636,4 @@ The accent of the adjective disappears; the accent of the auxiliary remains.
 
 ---
 
-Source: ＮＨＫ日本語発音アクセント新辞典
+Source: ＮＨＫ日本語発音アクセント新辞典 Aerda Reddit Post [Pitch Accent of Verbs with Auxiliaries](https://www.reddit.com/r/LearnJapanese/comments/v8yy82/pitch_accent_of_verbs_with_auxiliaries_including/) and [Pitch Accent of Adjectives with Auxiliaries](https://www.reddit.com/r/LearnJapanese/comments/v19rn2/pitch_accent_of_adjectives_with_auxiliaries/)
