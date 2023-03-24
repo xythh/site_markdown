@@ -89,3 +89,13 @@ Charts of patterns on [u-biq](https://accent.u-biq.org/)
 [kansaiben.com](http://www.kansaiben.com/1.Characteristics/2.LinguisticAspects/index.html)
 
 [近世京都・大坂アクセント一覧](http://www.akenotsuki.com/kyookotoba/zhisho/)
+
+[京言葉](https://www.akenotsuki.com/kyookotoba/)
+
+[わたさんの大阪弁アクセント講座](http://immanuel.sakura.ne.jp/hoby/osakaben/osakaben.htm)
+
+[近畿日本語アクセント辞典](https://sites.google.com/view/omizansakamoto/documents/teishouzan?pli=1)
+
+[関西弁３文字言葉イントネーション辞典 Electrophile](http://rjaba.blog4.fc2.com/blog-entry-323.html)
+
+[京阪アクセント辞典](https://keihan.netlify.app/)
