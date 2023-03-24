@@ -48,7 +48,7 @@ Everything from here on out is written by Kez.
 〜千円 |  せんえん{0} |  （Ｘ０００円）<br>
 万     |  まん{1}     |  （Ｘ００００）<br>
 〜万円 |  まんえん{0} |  （Ｘ００００円）<br>
-億     | ⠀おく{1}     |  （Ｘ００００００００）<br>
+億     | おく{-}     |  （Ｘ００００００００）<br>
 
 ## Phone Numbers　電話番号
 Preferred number alternatives in this context:<br>
