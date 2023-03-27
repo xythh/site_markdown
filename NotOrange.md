@@ -13,7 +13,7 @@ This document is based on the [Google Doc](https://docs.google.com/document/d/1e
 
 ## How to read the notation  
 
-This document uses the same format as Yomichan, no line means low, ⠀{1} means a drop, ⠀{+} means the pitch stays high.
+This document uses the same format as Yomichan, no line means low, ⠀{1} means a drop, ⠀{0} means the pitch stays high.
 
 べんきょう{0}, the pitch starts low goes up and stays there 
 
@@ -105,7 +105,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～年  | ねん{-} | `3年・さんねん{0}`<br>`4年・よねん{0}`<br>`5年・ごねん{0}`<br><br>3年 is free to change to さんねん{1} or remain flat if it follows another number<br><br>eg.<br>13年・じゅうさんねん{3}<br>23年・にじゅう{1}・さんねん{1}<br>53年・ごじゅう{0}・さんねん{1} |
 | ～ヶ月 | かげつ{1} |     |
 | ～月  | がつ{2}<br>がつ{-} | **ignores の rule**<br>1月・いちがつ{4}<br>2月・にがつ{1}<br>           にがつ{3}<br>3月・さんがつ{1}<br>4月・しがつ{1}<br>           しがつ{3}<br>5月・ごがつ{1}<br>6月・ろくがつ{4}<br>7月・しちがつ{4}<br>8月・はちがつ{4}<br>9月・くがつ{1}<br>10月・じゅうがつ{4}<br>11月・じゅういちがつ{6}<br>12月・じゅうにがつ{5}<br>           じゅうにがつ{3}<br>何月・なんがつ{1} |
-| ～日  | か{+}<br>にち{2}<br>にち{-} | **ignores の rule**<br>何日・なんにち{1}<br>1日・ついたち{4}・いちにち{4}<br>2日・ふつか{0}<br>3日・みっか{0}<br>4日・よっか{0}<br>5日・いつか{0}<br>6日・むいか{0}<br>7日・なのか{0}<br>8日・ようか{0}<br>9日・ここのか{4}<br>10日・とおか{0}<br>11日・じゅういちにち{6}<br>12日・じゅうににち{3}<br>           じゅうににち{5}<br>13日・じゅうさんにち{3}<br>           じゅう{1}・さんにち{0}<br>14日・じゅうよっか{0}<br>　　　じゅう{1}・よっか{0}<br>           じゅうよんにち{3}<br>15日・じゅうごにち{3}<br>           じゅうごにち{5}<br>           じゅう{1}・ごにち{3}<br>           じゅう{1}・ごにち{1}<br>16日・じゅうろくにち{6}<br>17日・じゅうしちにち{6}<br>18日・じゅうはちにち{6}<br>19日・じゅうくにち{3}<br>20日・はつか{0}<br>21日・にじゅう{1}・いちにち{4}<br>22日・にじゅう{1}・ににち{3}<br>           にじゅう{1}・ににち{1}<br>23日・にじゅう{1}・さんにち{1}<br>　　　にじゅう{1}・さんにち{4}<br>24日・にじゅう{1}・よっか{0}<br>25日・にじゅう{1}・ごにち{1}<br>26日・にじゅう{1}・ろくにち{4}<br>27日・にじゅう{1}・しちにち{4}<br>28日・にじゅう{1}・はちにち{4}<br>29日・にじゅう{1}・くにち{1}<br>30日・さんじゅうにち{3}<br>40日・よんじゅうにち{3}<br>100日・ひゃくにち{4}<br>1000日・せんにち{1} |
+| ～日  | か{0}<br>にち{2}<br>にち{-} | **ignores の rule**<br>何日・なんにち{1}<br>1日・ついたち{4}・いちにち{4}<br>2日・ふつか{0}<br>3日・みっか{0}<br>4日・よっか{0}<br>5日・いつか{0}<br>6日・むいか{0}<br>7日・なのか{0}<br>8日・ようか{0}<br>9日・ここのか{4}<br>10日・とおか{0}<br>11日・じゅういちにち{6}<br>12日・じゅうににち{3}<br>           じゅうににち{5}<br>13日・じゅうさんにち{3}<br>           じゅう{1}・さんにち{0}<br>14日・じゅうよっか{0}<br>　　　じゅう{1}・よっか{0}<br>           じゅうよんにち{3}<br>15日・じゅうごにち{3}<br>           じゅうごにち{5}<br>           じゅう{1}・ごにち{3}<br>           じゅう{1}・ごにち{1}<br>16日・じゅうろくにち{6}<br>17日・じゅうしちにち{6}<br>18日・じゅうはちにち{6}<br>19日・じゅうくにち{3}<br>20日・はつか{0}<br>21日・にじゅう{1}・いちにち{4}<br>22日・にじゅう{1}・ににち{3}<br>           にじゅう{1}・ににち{1}<br>23日・にじゅう{1}・さんにち{1}<br>　　　にじゅう{1}・さんにち{4}<br>24日・にじゅう{1}・よっか{0}<br>25日・にじゅう{1}・ごにち{1}<br>26日・にじゅう{1}・ろくにち{4}<br>27日・にじゅう{1}・しちにち{4}<br>28日・にじゅう{1}・はちにち{4}<br>29日・にじゅう{1}・くにち{1}<br>30日・さんじゅうにち{3}<br>40日・よんじゅうにち{3}<br>100日・ひゃくにち{4}<br>1000日・せんにち{1} |
 | ～分 {#分-minutes}  | ふん{-} | _See also:_ [_～分_](#分-fraction)　_counter for fractions_ _See also:_ [_～分_](#分-suffix)　_suffix_ |
 | ～秒  | びょう{-} |     |
 | ～期{#期-counter}  | き{-}  | _See also:_ [_～期_](#期-suffix)　_suffix_ |
@@ -252,7 +252,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | --- | --- | --- |
 | ～子  | こ{-}  |     |
 | ～っ子 | っこ{-} |     |
-| ～み  | み{+}  | Only applies to 3 mora or more female given names. So names like 野上・のがみ{1} or 尚文・なおふみ{2} are not exceptions |
+| ～み  | み{0}  | Only applies to 3 mora or more female given names. So names like 野上・のがみ{1} or 尚文・なおふみ{2} are not exceptions |
 | ～野郎 | やろう{2} |     |
 | ～名{#名-suffix}  | めい{-} | _See also:_ [_～名_](#名-counter)　_honorific counter for people_ |
 | ～長  | ちょう{-} |     |
@@ -271,9 +271,9 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～者  | もの{0} |     |
 | ～手{#手-suffix}  | しゅ{-} | operator, driver<br>_See also:_ [_～手_](#手-counter)　_counter for moves in board games_ |
 | ～生  | せい{-} |     |
-| ～家  | か{+}  |     |
+| ～家  | か{0}  |     |
 | ～家  | け{-}  |     |
-| ～派  | は{+}  |     |
+| ～派  | は{0}  |     |
 | ～役  | やく{0} |     |
 
 ## Geography
@@ -304,7 +304,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
 | ～室  | しつ{-} |     |
-| ～屋  | や{+}<br>や{-} | If the base word is 2 mora then や{-}, otherwise や{+}<br>`桶屋・おけや{2}`<br>　　　`おけや{0}`<br>`床屋・とこや{0}`<br>`宿屋・やどや{2}`<br>`　　　やどや{0}`<br>`八百屋・やおや{0} `|
+| ～屋  | や{0}<br>や{-} | If the base word is 2 mora then や{-}, otherwise や{0}<br>`桶屋・おけや{2}`<br>　　　`おけや{0}`<br>`床屋・とこや{0}`<br>`宿屋・やどや{2}`<br>`　　　やどや{0}`<br>`八百屋・やおや{0} `|
 | ～館  | かん{-} |     |
 | ～部屋{#部屋-suffix} | べや{0} | _See also:_ [_～部屋_](#部屋-suffix) _counter_ |
 | ～店  | てん{-} | `喫茶店・きっさてん{0}`<br>`　　　　きっさてん{3}` |
@@ -317,7 +317,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
 | ～字  | じ{-}  | `ローマ字・ろーまじ{0}`<br>`　　　　　ろーまじ{3}`<br>`当て字・あてじ{0}` |
-| ～語{#語-language}  | ご{+}  | language<br>_See also_ [_～語_](#語-counter)　_counter_ |
+| ～語{#語-language}  | ご{0}  | language<br>_See also_ [_～語_](#語-counter)　_counter_ |
 | ～弁  | べん{0} |     |
 | ～詞  | し{-}  |     |
 | ～核  | かく{-} |     |
@@ -341,7 +341,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | --- | --- | --- |
 | ～部{#部-suffix}  | ぶ{-}  | department, club<br>_See also:_ [_～部_](#部-counter)　_counter_ |
 | ～学  | がく{-} |     |
-| ～科  | か{+}  |     |
+| ～科  | か{0}  |     |
 | ～校  | こう{-} | `予備校・よびこう{0}`<br>`女子校・じょしこう{0}`<br>`男子校・だんしこう{0}` |
 
 ## Power and War
@@ -383,11 +383,11 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 
 | **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
-| i-adj～め | め{+}  |     |
-| i-adj～げ | げ{+}  |     |
+| i-adj～め | め{0}  |     |
+| i-adj～げ | げ{0}  |     |
 | masu stem～たて | たて{0} | may also be written as ～立て |
 | masu stem～がち | がち{0} |     |
-| adj～さ | さ{-}<br>さ{+} | accented words will be さ{-}<br>heiban words will be さ{+}<br>`綺麗さ・きれいさ{0}`<br>`暖かさ・あたたかさ{4}`<br>`　　　　あたたかさ{3}`<br>`大きさ・おおきさ{0}` |
+| adj～さ | さ{-}<br>さ{0} | accented words will be さ{-}<br>heiban words will be さ{0}<br>`綺麗さ・きれいさ{0}`<br>`暖かさ・あたたかさ{4}`<br>`　　　　あたたかさ{3}`<br>`大きさ・おおきさ{0}` |
 
 ## Everything Else
 
@@ -397,7 +397,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～ずつ | ずつ{1} |     |
 | ～っぽい | っぽい{2} | is an i-adjective so pitch will change in same way as other adjectives when conjugated |
 | ～会  | かい{-}<br>かい{0} | Four-mora words are flat<br>eg.<br>女子会・じょしかい{0}<br>飲み会・のみかい{0}<br>二次会・にじかい{0}<br>オフ会・おふかい{0}<br><br>かい{-} is considered to be more correct, though most people, particularly younger people, will, to some extent, use かい{0} for some words. Four-mora words are apart from this continuum and are always pronounced that way by everyone. The words below are examples of words where かい{0} is often chosen.<br><br>生徒会・せいとかい{0}<br> 勉強会・べんきょうかい{0}<br>同好会・どうこうかい{0} |
-| ～化  | か{+}  |     |
+| ～化  | か{0}  |     |
 | ～的  | てき{0} |     |
 | ～くらい～ぐらい | くらい{1}<br>ぐらい{1} | `これ/この/それ/その/あれ/あの/どれ/どの + ぐらい/くらい will be heiban, though more traditionally どれ～ and どの～ will be atamadaka` |
 | ～組{#組-suffix}  | ぐみ{0} | _See also:_ [_～組_](#組-counter)　_counter_ |
@@ -457,7 +457,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 | ～順  | じゅん{0} |     |
 | ～帯  | たい{0} |     |
 | ～誌  | し{-}  |     |
-| ～座  | ざ{+}  |     |
+| ～座  | ざ{0}  |     |
 | ～客  | きゃく{-} |     |
 | ～児  | じ{-}  |     |
 | ～走  | そう{-} |     |
