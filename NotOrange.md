@@ -250,7 +250,7 @@ Some counters are so irregular that it's simpler to write the full (or as full a
 
 *names cannot be odaka so these last 4 suffixes will attach to odaka words as if they were heiban*
 
-||||
+| **_Suffix_** | **_Pitch Accent_** | **_`Exceptions`_** **_and Other Notes_** |
 | --- | --- | --- |
 | ～卿  | きょう{0}  |     |
 | ～子  | こ{-}  |     |
