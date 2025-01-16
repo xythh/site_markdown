@@ -117,6 +117,8 @@ layout: resources.html
 
 [kansaiben.com](http://www.kansaiben.com/1.Characteristics/2.LinguisticAspects/index.html) Website for people self-studying Kansai-ben.
 
+[kansaibenkyou.net](http://www.kansaibenkyou.net/index.html) A website in english about Kansai.
+
 [甲種日本語アクセント辞典](https://sekiyu-oh.com/#work) Information about kansaiben
 
 [京言葉](https://www.akenotsuki.com/kyookotoba/) Website centered around Kansai-ben.
