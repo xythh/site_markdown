@@ -43,6 +43,9 @@ layout: resources.html
 
 [日本語のイントネーション](http://corismus.com/intonation/index.html) website written by the author of [日本語のイントネーション](https://www.taishukan.co.jp/book/b498632.html)
 
+[記号の読み方辞典](https://hiramatu-hifuka.com/onyak/onyak2/kigo-1.html) Website for learning how to read different symbols such as punctutation,math symbols, units,common acronyms, etc.
+
+
 ## Videos
 
 [Strategies for Acquiring Pitch Accent in Japanese](https://www.youtube.com/watch?v=I-dRbTnLmBY) A video by a high level learner on how to go about acquiring pitch accent.
@@ -114,6 +117,8 @@ layout: resources.html
 
 [kansaiben.com](http://www.kansaiben.com/1.Characteristics/2.LinguisticAspects/index.html) Website for people self-studying Kansai-ben.
 
+[甲種日本語アクセント辞典](https://sekiyu-oh.com/#work) Information about kansaiben
+
 [京言葉](https://www.akenotsuki.com/kyookotoba/) Website centered around Kansai-ben.
 
 [わたさんの大阪弁アクセント講座](http://immanuel.sakura.ne.jp/hoby/osakaben/osakaben.htm) Very useful resource on Oosaka-Ben.
@@ -122,6 +127,7 @@ layout: resources.html
 
 [関西弁３文字言葉イントネーション辞典 Electrophile](http://rjaba.blog4.fc2.com/blog-entry-323.html) list of the pitch accent of various words in Kansai-ben.
 
-[京阪アクセント辞典](https://keihan.netlify.app/) An online dictionary for Kansai-ben. It is currently down.
+[京阪アクセント辞典](https://kansai.milkyskies.dev/) An online dictionary for Kansai-ben. 
 
 [YouTube関西弁講座-大阪おっちゃんねる-](https://www.youtube.com/@kansaiben/videos) A channel on all things Kansai-ben.
+
